@@ -7,11 +7,11 @@
 #
 # All rights reserved.
 
-HELP_1 = """✅**<u>Admin Commands:</u>**
+HELP_1 = """✅**<u>𝓫𝓪𝓼𝓲𝓬 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼:</u>**
 
 **c** stands for channel play.
 
-/pause or /cpause - Pause the playing music.
+/pause or /cpause - 𝓳𝓸𝓲𝓷 @𝓪𝓬𝓬𝓸𝓾𝓷𝓽𝓽𝓸𝓸𝓵Pause the playing music. 
 /resume or /cresume- Resume the paused music.
 /mute or /cmute- Mute the playing music.
 /unmute or /cunmute- Unmute the muted music.
@@ -23,15 +23,15 @@ HELP_1 = """✅**<u>Admin Commands:</u>**
 /restart - Restart bot for your chat .
 
 
-✅<u>**Specific Skip:**</u>
+✅<u>**𝓼𝓹𝓮𝓬𝓲𝓯𝓴 𝓼𝓴𝓲𝓹:**</u>
 /skip or /cskip [Number(example: 3)] 
     - Skips music to a the specified queued number. Example: /skip 3 will skip music to third queued music and will ignore 1 and 2 music in queue.
 
-✅<u>**Loop Play:**</u>
+✅<u>**𝓵𝓸𝓸𝓹 𝓹𝓵𝓪𝔂:**</u>
 /loop or /cloop [enable/disable] or [Numbers between 1-10] 
     - When activated, bot loops the current playing music to 1-10 times on voice chat. Default to 10 times.
 
-✅<u>**Auth Users:**</u>
+✅<u>**𝓪𝓾𝓽𝓱 𝓾𝓼𝓮𝓻𝓼:**</u>
 Auth Users can use admin commands without admin rights in your chat.
 
 /auth [Username] - Add a user to AUTH LIST of the group.
@@ -39,9 +39,9 @@ Auth Users can use admin commands without admin rights in your chat.
 /authusers - Check AUTH LIST of the group."""
 
 
-HELP_2 = """✅<u>**Play Commands:**</u>
+HELP_2 = """✅<u>**𝓹𝓵𝓪𝔂 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼:**</u>
 
-Available Commands = play , vplay , cplay
+Available Commands = play , vplay , cplay 𝓳𝓸𝓲𝓷 @𝓪𝓬𝓬𝓸𝓾𝓷𝓽𝓽𝓸𝓸𝓵
 
 ForcePlay Commands = playforce , vplayforce , cplayforce
 
@@ -56,13 +56,13 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 /channelplay [Chat username or id] or [Disable] - Connect channel to a group and stream music on channel's voice chat from your group.
 
 
-✅**<u>Bot's Server Playlists:</u>**
+✅**<u>𝓫𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 𝓹𝓵𝓼𝔂𝓵𝓲𝓼𝓽:</u>**
 /playlist  - Check Your Saved Playlist On Servers.
 /deleteplaylist - Delete any saved music in your playlist
 /play  - Start playing Your Saved Playlist from Servers."""
 
 
-HELP_3 = """✅<u>**Bot Commands:**</u>
+HELP_3 = """✅<u>**𝓶𝔂 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼:**</u>
 
 /stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
 
@@ -78,15 +78,15 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 /queue or /cqueue- Check Queue List of Music."""
 
-HELP_4 = """✅<u>**Extra  Commands:**</u>
-/start - Start the Music Bot.
+HELP_4 = """✅<u>**𝓪𝓷𝓸𝓽𝓱𝓮𝓻 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼:**</u>
+/start - Start the Music Bot. 𝓫𝓸𝓽 𝓫𝔂 @nati_sam223
 /help  - Get Commands Helper Menu with detailed explanations of commands.
 /ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
 
 ✅<u>**Group Settings:**</u>
 /settings - Get a complete group's settings with inline buttons
 
-🔗 **Options in Settings:**
+🔗 **𝓸𝓹𝓽𝓲𝓸𝓷𝓪𝓵 𝓼𝓮𝓽𝓽𝓲𝓷𝓰:**
 
 1️⃣ You can set **Audio Quality** you want to stream on voice chat.
 
@@ -110,7 +110,7 @@ HELP_4 = """✅<u>**Extra  Commands:**</u>
 
 3️⃣ **Play Type** [Everyone or Admins] - If admins, only admins present in group can play music on voice chat."""
 
-HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
+HELP_5 = """🔰**<u>𝓱𝓮𝔂 𝓫𝓻𝓸 𝓪𝓭𝓭 𝓼𝓾𝓭𝓸 𝓾𝓼𝓮𝓻𝓼  :</u>**
 /addsudo [Username or Reply to a user]
 /delsudo [Username or Reply to a user]
 
